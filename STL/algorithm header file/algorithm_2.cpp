@@ -1,6 +1,7 @@
 /*
 6   count(first_iterator, last_iterator,x) – To count the occurrences of x in vector.
-7   find(first_iterator, last_iterator, x) – Returns an iterator to the first occurence of x in vector and points to last address of vector ((name_of_vector).end()) if element is not present in vector.
+7   find(first_iterator, last_iterator, x) – Returns an iterator to the first occurence of x in vector <br>
+    and points to last address of vector ((name_of_vector).end()) if element is not present in vector.
  
 */
 // C++ program to demonstrate working of count()
