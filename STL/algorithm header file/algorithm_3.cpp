@@ -12,6 +12,8 @@
 #include <vector>
 using namespace std;
  
+
+
 int main()
 {
     // Initializing vector with array values
