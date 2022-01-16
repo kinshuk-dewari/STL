@@ -7,6 +7,9 @@ standard template libraries<br>
 5. pair 
 6. sets 
 7. map 
+8. queue 
+9. dequeqe 
+10. stack
 
 
 
