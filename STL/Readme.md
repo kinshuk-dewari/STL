@@ -1,4 +1,4 @@
-# STL. Standard template libraries
+# STL : Standard template libraries
 ## this contains the stl and it's different different forms
 
 ### Some use full macros and template 
